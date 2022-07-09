@@ -12,7 +12,7 @@ Python (Numpy, Fabric, TDD { unittest, pytest }, Scraping { Request, Selenium },
 Web Server (Nginx, Apache), Application Server (Gunicorn, Express), Database (MySQL), Load Balancer, SSL Configuration. 
 
 ## Frameworks & others:
-ReactJS, Flask, Cors, Bootstrap, Axios, Docker, Git, HAProxy, OpenSSL, UFW, Vagrant, emacs, web infrastructure, clean architecture.
+ReactJS, Flask, Cors, Bootstrap, Axios, Docker, Git, HAProxy, Postman, OpenSSL, UFW, Vagrant, emacs, web infrastructure, clean architecture, figma.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/miguel-enrique-grillo-orellana/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Link Linkedin" width="50px" height= "50px"></a>
