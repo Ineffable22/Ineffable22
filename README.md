@@ -1,6 +1,6 @@
 ### Hello, I'm **[Miguel](https://www.linkedin.com/in/miguel-enrique-grillo-orellana)** 👋
 
-I am a **Full-Stack Software Engineer** and **I am specializing in Low Level** at **Holberton School**. Passionate about technology, I love solving complex data algorithmic problems and programming. I am currently a **Student Tutor** at Holberton School and I **teach Python** at Rimac Seguros.
+I am a **Full-Stack Software Engineer** and **I am specializing in Low Level** at **Holberton School**. Passionate about technology, I love solving complex data algorithmic problems and programming. I am currently a **Student Tutor** at Holberton School and **teach Python** at Rimac Seguros.
 
 Previously I studied ***systems engineering and computer science***.
 
