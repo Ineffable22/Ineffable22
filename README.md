@@ -16,5 +16,6 @@ ReactJS, Flask, Cors, Bootstrap, Axios, Docker, Git, HAProxy, Postman, OpenSSL, 
 
 <div align="center">
 <a href="https://www.linkedin.com/in/miguel-enrique-grillo-orellana/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Link Linkedin" width="50px" height= "50px"></a>
+<img src="https://gpvc.arturio.dev/Ineffable22"> 
 <a href="https://medium.com/@Miguel_Grillo"><img src="https://miro.medium.com/max/1200/0*jTIO9a1_5T3mv-pR.png" alt="Link Medium" width="100px" height= "50px"></a>
 </div>
