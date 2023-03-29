@@ -24,7 +24,7 @@ FullStack:
 
 Server Management & DevOps:
 - Docker | Bash Script | Puppet Script.
-- Application Server (Gunicorn(Flask), Express, NestJS(Prisma, mongoose)).
+- Application Server (Gunicorn(Flask), Express, Prisma, mongoose).
 - Load Balancer (HAProxy).
 - Configuration Web Server (Nginx, Apache, SSL(OpenSSL, Certbot), UFW).
 
